@@ -17,4 +17,4 @@
 
 ------
 <img src = "https://user-images.githubusercontent.com/56143212/106741163-aec46e80-665e-11eb-971e-e266009ed4df.PNG" width ="400" height ="300"></img>'
-+ 퇴장 버튼 클릭 시 퇴장 해당 유저의 닉네임과 함께 퇴장 메시지 다른 유저들에게  
++ 퇴장 버튼 클릭 시 퇴장 해당 유저의 닉네임과 함께 퇴장 메시지를 다른 유저들에게 
